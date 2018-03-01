@@ -1,0 +1,9 @@
+.idea
+.slcache
+.classpath
+.project
+target
+wrapper
+grailsw
+grailsw.bat
+*.iml
